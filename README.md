@@ -1,2 +1,4 @@
 # Goke-7102-Firmwares-to-Upload-Update
 Please Help Me
+Hi There,
+I have many of these cheap Cloud Storage Intelligent Cameras (Intelligent, OMG) and recently they upgraded the firmware to 16.0.2.0222 and since then the ONVIF feed does not work to iSpy. Opening the Camera I see it has a Goke 7102 Chip inside so i guess this firmware would work. I have tried the IPCtools software on both my computers but it doesnt find the camera. I just want to upload the firmware to the camera, Many instructions say to just put the Firmware into the root directory of an SD card formatted fat 32. Reset the camera and it should upload. But I can not seem to get that to happen. Can someone please point me in the direction of newbie instructions of how to get the firmware onto the camera. Please, I have 12 Cameras all bolted on to my house and none of them work. Thanks Thanks Thank in advance.
